@@ -6,7 +6,6 @@
     $data = selectAll();
 ?>
 
-
 <!DOCTYPE html>
 <html lang="<?= $defaultLanguage; ?>">
 <head>
@@ -22,7 +21,6 @@
     <link rel="icon" type="image/png" href="/asset/images/icons/icon.png" />
     <link rel="stylesheet" href="/asset/css/styles.css">
 
-    
     <title>Accueil</title>
 </head>
 <body>
