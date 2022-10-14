@@ -5,7 +5,6 @@
     isAdmin();
 ?>
 
-
 <!DOCTYPE html>
 <html lang="<?= $defaultLanguage; ?>">
 <head>
